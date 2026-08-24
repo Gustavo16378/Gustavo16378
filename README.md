@@ -13,10 +13,11 @@
 
 ## Sobre mim
 
-<!-- ESCREVA AQUI com as suas palavras. Sugestão de estrutura, 3 ou 4 linhas:
-- o que você faz (dev full-stack, freelancer, faculdade de SI)
-- seu diferencial (sites autorais, identidade visual, nada de template)
-- o que você tá construindo agora -->
+Desenvolvedor full-stack em Palmas, Tocantins, cursando Sistemas de Informação na UNITINS.
+
+Trabalho com sites autorais: cada projeto nasce com identidade visual própria, do layout ao back-end. Nada de tema pronto com a logo trocada em cima.
+
+Hoje estou tocando a plataforma da Federação de Handebol do Tocantins e o FinControl, um sistema de controle financeiro separado em API e front-end.
 
 ```java
 public class Gustavo {
@@ -85,6 +86,8 @@ Lista de logos disponíveis: https://simpleicons.org -->
 
 <sub>Feito com café e commits em Palmas, TO.</sub>
 
-<!-- ESCREVA AQUI uma linha de fechamento do seu jeito, ou apaga essa. -->
+<br/>
+
+<sub>Aberto a freela e a projeto que precise de cara própria. Chama no LinkedIn.</sub>
 
 </div>
