@@ -74,8 +74,8 @@ public class Gustavo {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gustavo16378&show_icons=true&hide_border=true&bg_color=00000000&text_color=c9d1d9&title_color=d4a95f&icon_color=d4a95f&locale=pt-br&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo16378&layout=compact&hide_border=true&bg_color=00000000&text_color=c9d1d9&title_color=d4a95f&locale=pt-br" />
+<img height="165" src="https://github-readme-stats-eta-tawny-10.vercel.app/api?username=Gustavo16378&show_icons=true&hide_border=true&bg_color=00000000&text_color=c9d1d9&title_color=d4a95f&icon_color=d4a95f&locale=pt-br&rank_icon=github" />
+<img height="165" src="https://github-readme-stats-eta-tawny-10.vercel.app/api/top-langs/?username=Gustavo16378&layout=compact&hide_border=true&bg_color=00000000&text_color=c9d1d9&title_color=d4a95f&locale=pt-br" />
 
 <br/><br/>
 
