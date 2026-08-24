@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=28&duration=3500&pause=1000&color=D4A95F&center=true&vCenter=true&width=650&lines=Gustavo+Barbosa+Lima;Desenvolvedor+Full-Stack;Sites+autorais.+Zero+template." alt="Gustavo Barbosa Lima, Desenvolvedor Full-Stack" />
+<img src="./assets/banner.svg" alt="Gustavo Dev. Sites autorais. Zero template." width="100%" />
 
-<br/>
+<br/><br/>
 
 <a href="https://gustavodev.dev"><img src="https://img.shields.io/badge/Portf%C3%B3lio-gustavodev.dev-d4a95f?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" /></a>
 <a href="https://www.linkedin.com/in/gustavo-barbosa-lima-341886278"><img src="https://img.shields.io/badge/LinkedIn-Gustavo%20Barbosa-d4a95f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
@@ -13,53 +13,61 @@
 
 ## Sobre mim
 
-Desenvolvedor full-stack de Palmas, Tocantins. Trabalho com desenvolvimento web profissional e toco meus projetos como freelancer na **Gustavo Dev**, além de cursar Sistemas de Informação na UNITINS.
+Desenvolvedor full-stack de Palmas, Tocantins. Construo sistemas completos: API, banco, autenticação, deploy, o ciclo inteiro. Trabalho com desenvolvimento web profissional, toco meus projetos como freelancer na **Gustavo Dev** e curso Sistemas de Informação na UNITINS.
 
-Meu diferencial é simples: eu não entrego template. Cada site que eu construo nasce com identidade visual própria, pensado como peça única, do conceito no Figma até o deploy. Design autoral e engenharia de verdade no mesmo projeto.
+E quando o projeto pede site, ele não sai de template: cada um nasce com identidade visual própria, do conceito no Figma até o ar. Engenharia e design autoral no mesmo dev.
 
 ```java
 public class Gustavo {
-    String base    = "Palmas, Tocantins 🇧🇷";
+    String base     = "Palmas, Tocantins 🇧🇷";
     String formacao = "Sistemas de Informação, UNITINS";
-    String marca   = "Gustavo Dev";
-    String lema    = "Site bom é aquele que ninguém confunde com template";
+    String marca    = "Gustavo Dev";
+    String foco     = "Sistemas, APIs e sites autorais";
+    String lema     = "Do conceito ao deploy, sem atalho";
 }
 ```
 
 ## Stack
 
-<div align="center">
-
-**Front-end**
-
-<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=d4a95f" />
-<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=d4a95f" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=d4a95f" />
-<img src="https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=d4a95f" />
-<img src="https://img.shields.io/badge/Angular-0d1117?style=for-the-badge&logo=angular&logoColor=d4a95f" />
-
-**Back-end**
-
-<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=d4a95f" />
-<img src="https://img.shields.io/badge/Spring%20Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=d4a95f" />
-<img src="https://img.shields.io/badge/Quarkus-0d1117?style=for-the-badge&logo=quarkus&logoColor=d4a95f" />
-<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=d4a95f" />
-
-**Banco e infra**
-
-<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=d4a95f" />
-<img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=d4a95f" />
-<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=d4a95f" />
-<img src="https://img.shields.io/badge/Cloudflare-0d1117?style=for-the-badge&logo=cloudflare&logoColor=d4a95f" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=d4a95f" />
-
-**Design e ferramentas**
-
-<img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=d4a95f" />
-<img src="https://img.shields.io/badge/Swagger-0d1117?style=for-the-badge&logo=swagger&logoColor=d4a95f" />
-<img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=d4a95f" />
-
-</div>
+<table align="center">
+  <tr>
+    <td align="right"><sub><b>FRONT-END</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=d4a95f" />
+      <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=d4a95f" />
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=d4a95f" />
+      <img src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=d4a95f" />
+      <img src="https://img.shields.io/badge/Angular-0d1117?style=flat-square&logo=angular&logoColor=d4a95f" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>BACK-END</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=d4a95f" />
+      <img src="https://img.shields.io/badge/Spring%20Boot-0d1117?style=flat-square&logo=springboot&logoColor=d4a95f" />
+      <img src="https://img.shields.io/badge/Quarkus-0d1117?style=flat-square&logo=quarkus&logoColor=d4a95f" />
+      <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=d4a95f" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>BANCO E INFRA</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=d4a95f" />
+      <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=d4a95f" />
+      <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=d4a95f" />
+      <img src="https://img.shields.io/badge/Cloudflare-0d1117?style=flat-square&logo=cloudflare&logoColor=d4a95f" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-0d1117?style=flat-square&logo=githubactions&logoColor=d4a95f" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>DESIGN E FERRAMENTAS</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=d4a95f" />
+      <img src="https://img.shields.io/badge/Swagger-0d1117?style=flat-square&logo=swagger&logoColor=d4a95f" />
+      <img src="https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=d4a95f" />
+    </td>
+  </tr>
+</table>
 
 ## Projetos em destaque
 
@@ -87,7 +95,7 @@ public class Gustavo {
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Gráfico de contribuições 3D" />
+<img src="./profile-3d-contrib/profile-gold.svg" alt="Gráfico de contribuições 3D" />
 
 </div>
 
