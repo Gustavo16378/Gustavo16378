@@ -124,17 +124,7 @@ Quando o projeto pede site, ele não sai de template. Mas o que eu mais gosto de
 
 <img src="./assets/trajetoria.svg" width="100%" alt="Trajetória de 2023 até hoje" />
 
-<img src="./assets/h-atividade.svg" width="100%" alt="06 Atividade" />
-
 <div align="center">
-
-<img src="./profile-3d-contrib/profile-acid.svg" width="100%" alt="Gráfico 3D de contribuições" />
-
-<br/><br/>
-
-<img height="160" src="https://github-readme-stats-eta-tawny-10.vercel.app/api/top-langs/?username=Gustavo16378&layout=compact&hide_border=true&bg_color=0e120f&text_color=f2f0e8&title_color=c6f24e&locale=pt-br&langs_count=8&exclude_repo=github-readme-stats" alt="Linguagens mais usadas" />
-
-<br/><br/>
 
 <sub>Palmas, TO · <a href="https://gustavodev.dev">gustavodev.dev</a></sub>
 
