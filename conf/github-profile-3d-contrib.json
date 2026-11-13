@@ -1,19 +1,19 @@
 [
     {
         "type": "normal",
-        "fileName": "profile-gold.svg",
-        "backgroundColor": "#0d1117",
-        "foregroundColor": "#c9d1d9",
-        "strongColor": "#d4a95f",
-        "weakColor": "#8b949e",
-        "radarColor": "#d4a95f",
+        "fileName": "profile-acid.svg",
+        "backgroundColor": "#0b0f0c",
+        "foregroundColor": "#f2f0e8",
+        "strongColor": "#c6f24e",
+        "weakColor": "#a9afa3",
+        "radarColor": "#c6f24e",
         "growingAnimation": true,
         "contribColors": [
-            "#21262d",
-            "#57431f",
-            "#8a6a33",
-            "#b88c47",
-            "#d4a95f"
+            "#1a201b",
+            "#3d4f1c",
+            "#668a26",
+            "#98c23a",
+            "#c6f24e"
         ]
     }
 ]
