@@ -33,7 +33,11 @@ Quando o projeto pede site, ele não sai de template. Mas o que eu mais gosto de
 </p>
 <p align="center">
 <a href="https://github.com/Gustavo16378/arte-de-amar"><img src="./assets/card-arte-de-amar.svg" width="49%" alt="Arte de Amar, site e painel da ONG" /></a>
-<a href="https://github.com/Gustavo16378/tyranitar-capim-dourado"><img src="./assets/card-capim-dourado.svg" width="49%" alt="Capim Dourado, projeto do hackathon HackaRun 2026" /></a>
+<a href="https://github.com/Gustavo16378/capi-capim-dourado"><img src="./assets/card-capim-dourado.svg" width="49%" alt="Capim Dourado, 2º lugar no hackathon HackaRun 2026" /></a>
+</p>
+<p align="center">
+<img src="./assets/card-prumo.svg" width="49%" alt="Prumo, sistema para PGR conforme a NR-1, em desenvolvimento" />
+<img src="./assets/card-coado.svg" width="49%" alt="Coado, SaaS de cardápio digital para cafeterias, em desenvolvimento" />
 </p>
 <p align="center">
 <a href="https://github.com/Gustavo16378/orcamento-api"><img src="./assets/card-orcamento-api.svg" width="49%" alt="Orçamento API em Spring Boot" /></a>
